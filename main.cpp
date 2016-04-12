@@ -2,8 +2,7 @@
  ** Program Filename: main.cpp
  ** Author: Billy Ji
  **  
- ** Description: A program to run the Chronicles of Sharnia space
- **              adventure console game.
+ ** Description: A program to run the game.
  *********************************************************************/
 
 
